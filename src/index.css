@@ -1,0 +1,14 @@
+body {
+  background: #ddd;
+  font-size: 14pt;
+}
+dl {
+  display: flex;
+  padding: 10pt;
+}
+dt {
+  width: 180px;
+}
+button {
+  margin: 0 5pt;
+}
