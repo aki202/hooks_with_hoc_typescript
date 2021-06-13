@@ -6,5 +6,5 @@ This repo shows you how to use Hooks from your Class Component and Functional Co
 
 I wrote an article for this repo.
 
-- [[React] Class ComponentとFunctional ComponentからHooksを呼び出しDRY原則を取り戻す](https://zenn.dev/articles/8e1bc896a2f6f8)
+- [[React] Class ComponentとFunctional ComponentからHooksを呼び出しDRY原則を取り戻す](https://zenn.dev/aki202/articles/8e1bc896a2f6f8)
 
